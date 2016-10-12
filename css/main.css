@@ -1,0 +1,21 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+.hm-header{
+    background: white;
+    border: 0;
+    height: 88px;
+}
+
+
+.background-img{
+	background-image: url('../img/bg-image.jpg');
+}
+
+
+
+
