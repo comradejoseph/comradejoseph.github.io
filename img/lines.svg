@@ -3,8 +3,8 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 600 400" style="enable-background:new 0 0 600 400;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
-	.st1{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;stroke-dasharray:1.995,1.995;}
+	.st0{fill:none;stroke:#4275B1;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#4275B1;stroke-miterlimit:10;stroke-dasharray:1.995,1.995;}
 </style>
 <g>
 	<g>
@@ -15,23 +15,23 @@
 </g>
 <g>
 	<g>
-		<line class="st0" x1="240" y1="1" x2="240" y2="2"/>
-		<line class="st1" x1="240" y1="4" x2="240" y2="398"/>
-		<line class="st0" x1="240" y1="399" x2="240" y2="400"/>
+		<line class="st0" x1="200.3" y1="1" x2="200.3" y2="2"/>
+		<line class="st1" x1="200.3" y1="4" x2="200.3" y2="398"/>
+		<line class="st0" x1="200.3" y1="399" x2="200.3" y2="400"/>
 	</g>
 </g>
 <g>
 	<g>
-		<line class="st0" x1="120" y1="1" x2="120" y2="2"/>
-		<line class="st1" x1="120" y1="4" x2="120" y2="398"/>
-		<line class="st0" x1="120" y1="399" x2="120" y2="400"/>
+		<line class="st0" x1="100.7" y1="1" x2="100.7" y2="2"/>
+		<line class="st1" x1="100.7" y1="4" x2="100.7" y2="398"/>
+		<line class="st0" x1="100.7" y1="399" x2="100.7" y2="400"/>
 	</g>
 </g>
 <g>
 	<g>
-		<line class="st0" x1="360" y1="1" x2="360" y2="2"/>
-		<line class="st1" x1="360" y1="4" x2="360" y2="398"/>
-		<line class="st0" x1="360" y1="399" x2="360" y2="400"/>
+		<line class="st0" x1="300" y1="1" x2="300" y2="2"/>
+		<line class="st1" x1="300" y1="4" x2="300" y2="398"/>
+		<line class="st0" x1="300" y1="399" x2="300" y2="400"/>
 	</g>
 </g>
 <g>
@@ -43,9 +43,16 @@
 </g>
 <g>
 	<g>
-		<line class="st0" x1="480" y1="1" x2="480" y2="2"/>
-		<line class="st1" x1="480" y1="4" x2="480" y2="398"/>
-		<line class="st0" x1="480" y1="399" x2="480" y2="400"/>
+		<line class="st0" x1="399.7" y1="1" x2="399.7" y2="2"/>
+		<line class="st1" x1="399.7" y1="4" x2="399.7" y2="398"/>
+		<line class="st0" x1="399.7" y1="399" x2="399.7" y2="400"/>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st0" x1="499.3" y1="1" x2="499.3" y2="2"/>
+		<line class="st1" x1="499.3" y1="4" x2="499.3" y2="398"/>
+		<line class="st0" x1="499.3" y1="399" x2="499.3" y2="400"/>
 	</g>
 </g>
 </svg>
